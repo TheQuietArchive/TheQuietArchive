@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**TheQuietArchive/TheQuietArchive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kacper, Computer Science student interested in **AI/ML, Deep Learning, and Computer Vision**.
 
-Here are some ideas to get you started:
+🧠 Working on my engineering thesis: **clothing segmentation and outfit analysis using a custom U-Net model in PyTorch**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Working with Python, Java and SQL.
+
+🛠️ **CANAL+ internship**: Hands-on experience with IT infrastructure and networking.
+
+🚀 I'm eager to learn, build practical projects, and grow as an engineer.
+
+📫 How to reach me: kacperszczesniak23@gmail.com
+
+Fun fact: I dont drink coffe. ☕
